@@ -1,0 +1,22 @@
+{
+  "name": "express-hello-world",
+  "version": "0.0.1",
+  "description": "Hello World example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abulava/express-hello-world.git"
+  },
+  "author": "Andrey Bulava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abulava/express-hello-world/issues"
+  },
+  "homepage": "https://github.com/abulava/express-hello-world#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
